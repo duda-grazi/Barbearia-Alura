@@ -8,10 +8,15 @@ qbody{
 
  .principal{
  	background: #CCCCCC;
+ 	padding: 30px;
  }
 
-h1 {
-	text-align: center
+.titulo-centralizado {
+	padding-left:20px ;
+}
+
+.titulo-centralizado
+     text-align: center
 }
 
 p{
@@ -32,11 +37,9 @@ em strong{
 
 .beneficios{ 
      background: #FFFFFF;
+     padding: 20px;
  }
 
-h2{
-	text-align:center;
-}
 ul{
 	display: inline-block;
 	vertical-align: top;
